@@ -1,0 +1,9 @@
+{% extends 'fashion_app/base.html' %}
+{% load static %}
+
+{% block content %}
+<h1>Choose an Aesthetic</h1>
+{% for aesthetic in aesthetics %}
+    <a href="{% url 'apparel_set' aesthetic=aesthetic %}" class="aesthetic-button">{{ aesthetic }}</a>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Printed Cotton T-shirt",
+      "brand": "Roadster",
+      "category": "T-shirts",
+      "aesthetic": "Casual",
+      "price": "399.00",
+      "image_url": "https://example.com/tshirt.jpg"
+    },
+    {
+      "name": "Slim Fit Jeans",
+      "brand": "Levi's",
+      "category": "Jeans",
+      "aesthetic": "Casual",
+      "price": "1999.00",
+      "image_url": "https://example.com/jeans.jpg"
+    }
+  ]

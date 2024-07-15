@@ -1,0 +1,14 @@
+{% extends 'fashion_app/base.html' %}
+
+{% block content %}
+<h1>{{ aesthetic }} Apparel Set</h1>
+<div id="apparel-set">
+    {% for item in items %}
+    <div class="item">
+        <img src="{{ item.image.url }}" alt="{{ item.name }}">
+        <p>{{ item.name }}</p>
+    </div>
+    {% endfor %}
+</div>
+<a href="{% url 'home' %}">Back to Aesthetics</a>
+{% endblock %}

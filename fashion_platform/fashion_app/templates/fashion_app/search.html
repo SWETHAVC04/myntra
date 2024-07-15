@@ -1,0 +1,38 @@
+{% extends 'fashion_app/base.html' %}
+
+{% block content %}
+<h2 class="mb-4">Aesthetic Categories</h2>
+<div id="category" class="row"></div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+$(document).ready(function() {
+    // This is a mock-up. In a real application, you'd fetch actual recommendations from your API.
+    var aesthetics = [
+        { name: "Dark Academia", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15XUUTkcvG5-H9kowTvajWi7mo_w1vWoZ1A&s"},
+        { name: "Grunge", image_url: "https://i.pinimg.com/564x/65/df/e9/65dfe92b6d67048921082ec017961351.jpg"},
+        { name: "Balletcore", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0u4ABzKHZA0EL_VX6NNJmBpdxLOLuy4L3Q&s"}
+    ];
+    
+    var categoryHtml = '';
+    aesthetics.forEach(function(item) {
+        var urlName = item.name.toLowerCase().replace(' ', '-');
+        categoryHtml += `
+            <div class="col-md-4 mb-4">
+                <a href="{% url 'dark-academia' item_name='${urlName}' %}" class="text-decoration-none">
+                    <div class="card">
+                        <img src="${item.image_url}" class="card-img-top" alt="${item.name}" height="400">
+                        <div class="card-body">
+                            <h5 class="card-title">${item.name}</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        `;
+    });
+    $('#category').html(categoryHtml);
+});
+</script>
+{% endblock %}

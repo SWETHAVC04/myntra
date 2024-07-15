@@ -1,0 +1,201 @@
+ID,Name,Category,Color,Brand,Price,Trends
+1,Jeans,Outerwear,Red,MANGO,5488,Minimalist
+2,Sweater,Dress,Yellow,MANGO,5867,"Dark Academia, Cottage Core"
+3,Sneakers,Footwear,Green,H&M,4681,Grunge Revival
+4,Sneakers,Accessory,White,Adidas,3720,Dark Academia
+5,Trousers,Footwear,White,Nike,5146,Dark Academia
+6,T-Shirt,Bottom,Green,Adidas,1300,"Streetwear, Minimalist"
+7,Sandals,Accessory,Gray,Jack & Jones,3925,"Streetwear, Dark Academia"
+8,Shorts,Footwear,Yellow,Adidas,7006,Y2K
+9,Crop Top,Top,Green,H&M,4319,"Y2K, Cottage Core, Preppy"
+10,Shorts,Bottom,Purple,Zara,1300,Minimalist
+11,Skirt,Footwear,Blue,MANGO,6151,"Cottage Core, Bohemian"
+12,Jacket,Bottom,Blue,H&M,7409,Y2K
+13,Sweater,Top,Gray,ONLY,8612,"Y2K, Preppy"
+14,Boots,Footwear,Black,ONLY,4443,"Grunge Revival, Minimalist"
+15,T-Shirt,Bottom,Pink,ONLY,6016,"Grunge Revival, Dark Academia, Streetwear"
+16,Trousers,Accessory,Red,MANGO,1171,"Streetwear, Preppy, Y2K"
+17,Top,Outerwear,Gray,Jack & Jones,667,Bohemian
+18,Jacket,Dress,Purple,Nike,2345,Y2K
+19,Top,Outerwear,Blue,Jack & Jones,8275,Preppy
+20,Skirt,Top,Gray,H&M,5923,Preppy
+21,Trousers,Dress,Green,MANGO,6945,"Streetwear, Preppy"
+22,Crop Top,Dress,Blue,Levi's,3163,"Streetwear, Grunge Revival"
+23,Shorts,Dress,Brown,H&M,7507,"Grunge Revival, Dark Academia, Bohemian"
+24,Dress,Outerwear,Red,Zara,8105,Bohemian
+25,Shorts,Bottom,Blue,H&M,5813,"Bohemian, Minimalist"
+26,Blazer,Outerwear,Brown,Adidas,2203,Cottage Core
+27,Jacket,Accessory,Red,H&M,7415,Bohemian
+28,Skirt,Accessory,Green,Jack & Jones,5164,"Preppy, Minimalist"
+29,Sandals,Accessory,White,MANGO,5696,Bohemian
+30,Hoodie,Accessory,Purple,Adidas,1473,Dark Academia
+31,Boots,Top,Brown,Adidas,2359,Minimalist
+32,Sweater,Footwear,Gray,Vero Moda,928,"Grunge Revival, Minimalist"
+33,Hoodie,Accessory,Black,Jack & Jones,7105,"Cottage Core, Bohemian, Streetwear"
+34,Sneakers,Bottom,Purple,ONLY,8889,"Minimalist, Dark Academia, Cottage Core"
+35,T-Shirt,Top,Gray,H&M,3231,Y2K
+36,Hoodie,Accessory,Pink,Nike,9805,Cottage Core
+37,Sneakers,Top,Black,ONLY,5938,"Cottage Core, Minimalist"
+38,Boots,Outerwear,Black,Nike,2901,"Bohemian, Dark Academia, Grunge Revival"
+39,Jeans,Footwear,Green,Adidas,656,"Y2K, Preppy, Grunge Revival"
+40,Trousers,Bottom,Brown,H&M,9279,"Dark Academia, Grunge Revival, Preppy"
+41,Sandals,Footwear,Brown,Adidas,3802,Y2K
+42,Sandals,Bottom,Purple,Jack & Jones,5445,Minimalist
+43,Sneakers,Footwear,Pink,Zara,1157,Minimalist
+44,Top,Accessory,Green,Jack & Jones,6672,"Dark Academia, Minimalist, Preppy"
+45,Trousers,Outerwear,Red,Zara,4395,"Dark Academia, Bohemian, Y2K"
+46,Top,Outerwear,Yellow,Nike,2971,Streetwear
+47,Top,Top,Red,Adidas,7546,"Streetwear, Cottage Core, Preppy"
+48,Dress,Footwear,Red,Zara,4347,"Dark Academia, Bohemian"
+49,Dress,Top,Gray,Adidas,9345,"Streetwear, Bohemian, Grunge Revival"
+50,T-Shirt,Dress,Yellow,Nike,975,"Y2K, Streetwear, Preppy"
+51,Hoodie,Footwear,Black,Zara,6598,Preppy
+52,Skirt,Footwear,Purple,Jack & Jones,9351,Grunge Revival
+53,Jacket,Outerwear,Green,Jack & Jones,8967,Streetwear
+54,Jacket,Bottom,Yellow,Zara,2466,"Dark Academia, Y2K"
+55,Jacket,Dress,White,Levi's,9951,"Dark Academia, Preppy"
+56,Crop Top,Footwear,Gray,Nike,1636,Preppy
+57,Shorts,Dress,White,Nike,8694,Grunge Revival
+58,Hoodie,Top,Pink,ONLY,7982,"Bohemian, Minimalist, Y2K"
+59,Dress,Dress,Brown,Nike,6288,"Y2K, Dark Academia"
+60,Top,Outerwear,Red,H&M,6408,"Minimalist, Dark Academia, Cottage Core"
+61,Skirt,Accessory,Brown,Zara,8555,Dark Academia
+62,Blazer,Top,Purple,ONLY,1258,Preppy
+63,Crop Top,Outerwear,Pink,H&M,9011,Dark Academia
+64,Crop Top,Dress,Yellow,H&M,1351,Minimalist
+65,Dress,Dress,Black,ONLY,4525,"Streetwear, Minimalist, Grunge Revival"
+66,Sandals,Accessory,White,ONLY,8354,"Bohemian, Dark Academia"
+67,Sweater,Footwear,Brown,Levi's,6068,"Preppy, Y2K"
+68,Sneakers,Dress,Green,Zara,6327,"Cottage Core, Dark Academia, Grunge Revival"
+69,Sneakers,Outerwear,Yellow,ONLY,6109,Streetwear
+70,Top,Top,Black,Jack & Jones,1370,"Grunge Revival, Y2K, Preppy"
+71,Jacket,Outerwear,Red,ONLY,6793,"Y2K, Streetwear"
+72,Jacket,Top,Green,ONLY,8535,Streetwear
+73,Dress,Accessory,Red,MANGO,7410,"Dark Academia, Y2K, Grunge Revival"
+74,Dress,Outerwear,Yellow,Zara,6980,"Streetwear, Dark Academia"
+75,Sandals,Accessory,White,Zara,9110,"Preppy, Bohemian"
+76,Top,Accessory,Purple,Jack & Jones,7581,Streetwear
+77,Hoodie,Outerwear,Yellow,ONLY,4238,Dark Academia
+78,Jeans,Dress,White,Jack & Jones,6618,"Preppy, Grunge Revival"
+79,Shorts,Outerwear,Gray,Levi's,4789,Grunge Revival
+80,Jeans,Accessory,Brown,Zara,1229,"Dark Academia, Preppy"
+81,Sneakers,Top,Pink,Levi's,953,"Preppy, Streetwear"
+82,Hoodie,Top,Red,MANGO,9150,Cottage Core
+83,Hoodie,Dress,Gray,MANGO,2630,"Dark Academia, Preppy"
+84,T-Shirt,Accessory,Red,MANGO,7124,"Cottage Core, Grunge Revival"
+85,Jeans,Top,Pink,Zara,3578,"Minimalist, Dark Academia"
+86,Skirt,Top,Black,Jack & Jones,4451,Streetwear
+87,Jeans,Outerwear,White,MANGO,8957,"Preppy, Dark Academia"
+88,Jeans,Bottom,Gray,MANGO,5823,Minimalist
+89,Sandals,Top,Green,H&M,3565,"Cottage Core, Grunge Revival"
+90,Sneakers,Dress,Gray,ONLY,643,"Minimalist, Grunge Revival"
+91,Sweater,Accessory,Red,Zara,6537,"Y2K, Grunge Revival, Dark Academia"
+92,Hoodie,Dress,Blue,H&M,9036,"Minimalist, Cottage Core"
+93,T-Shirt,Outerwear,Black,H&M,6598,"Streetwear, Grunge Revival"
+94,T-Shirt,Footwear,Yellow,ONLY,3816,Cottage Core
+95,Crop Top,Accessory,Purple,H&M,6045,"Dark Academia, Cottage Core"
+96,Blazer,Dress,Gray,Adidas,8822,Streetwear
+97,Trousers,Top,Green,Zara,2496,"Dark Academia, Minimalist, Streetwear"
+98,Crop Top,Dress,Brown,Adidas,6451,Dark Academia
+99,Jacket,Accessory,Brown,H&M,6161,Grunge Revival
+100,Hoodie,Top,Green,H&M,7938,"Preppy, Streetwear, Y2K"
+101,Hoodie,Outerwear,Brown,MANGO,4014,Streetwear
+102,Dress,Top,Green,H&M,3539,"Y2K, Preppy, Dark Academia"
+103,Trousers,Top,Yellow,ONLY,1491,Bohemian
+104,Shorts,Outerwear,Gray,Jack & Jones,4922,"Cottage Core, Y2K"
+105,T-Shirt,Dress,Green,Nike,6112,"Dark Academia, Grunge Revival, Minimalist"
+106,Crop Top,Bottom,White,Vero Moda,2912,Preppy
+107,Crop Top,Footwear,Pink,ONLY,2861,Cottage Core
+108,Crop Top,Dress,Gray,Adidas,8250,"Y2K, Dark Academia, Cottage Core"
+109,Dress,Outerwear,Pink,MANGO,2319,"Grunge Revival, Y2K"
+110,Sweater,Bottom,Black,Zara,2982,"Minimalist, Y2K"
+111,Sweater,Outerwear,Blue,Adidas,2238,"Dark Academia, Preppy, Streetwear"
+112,T-Shirt,Footwear,Black,MANGO,4940,Bohemian
+113,Sweater,Outerwear,Red,MANGO,6720,Cottage Core
+114,Jeans,Top,Purple,Levi's,1305,"Dark Academia, Cottage Core"
+115,Jacket,Dress,Green,Adidas,5088,Grunge Revival
+116,Shorts,Bottom,Yellow,ONLY,3788,"Cottage Core, Dark Academia, Streetwear"
+117,Crop Top,Outerwear,Red,MANGO,3537,"Bohemian, Cottage Core, Y2K"
+118,Trousers,Top,Purple,ONLY,3983,"Grunge Revival, Streetwear"
+119,Skirt,Bottom,Pink,H&M,3619,Minimalist
+120,Boots,Bottom,Brown,Adidas,6633,"Dark Academia, Minimalist"
+121,Boots,Footwear,Pink,H&M,813,"Cottage Core, Streetwear, Preppy"
+122,T-Shirt,Bottom,Green,Adidas,1939,"Preppy, Bohemian"
+123,Sweater,Dress,Brown,Zara,9911,"Y2K, Cottage Core"
+124,Skirt,Footwear,Yellow,ONLY,7361,"Grunge Revival, Y2K, Streetwear"
+125,Hoodie,Footwear,Gray,Levi's,9961,Y2K
+126,Jacket,Top,Purple,MANGO,3828,Grunge Revival
+127,Crop Top,Bottom,Yellow,MANGO,5396,Streetwear
+128,Blazer,Top,Gray,Adidas,4638,"Preppy, Grunge Revival, Bohemian"
+129,Boots,Dress,White,Jack & Jones,2005,"Streetwear, Y2K"
+130,Sneakers,Dress,Green,Nike,2013,"Minimalist, Bohemian"
+131,Blazer,Outerwear,Green,Levi's,5397,"Dark Academia, Minimalist"
+132,Sneakers,Top,Purple,Vero Moda,7079,Grunge Revival
+133,Sweater,Accessory,Red,Vero Moda,3656,"Dark Academia, Streetwear, Bohemian"
+134,Boots,Dress,White,Vero Moda,1586,Minimalist
+135,Crop Top,Dress,White,Nike,1776,Preppy
+136,Crop Top,Top,Black,Vero Moda,1885,"Streetwear, Minimalist"
+137,Top,Dress,White,Levi's,8444,"Streetwear, Y2K, Cottage Core"
+138,Jacket,Top,Green,Jack & Jones,8506,"Cottage Core, Bohemian, Minimalist"
+139,Dress,Bottom,Pink,Adidas,8817,"Cottage Core, Bohemian, Grunge Revival"
+140,Boots,Outerwear,Pink,ONLY,8238,"Minimalist, Y2K"
+141,Trousers,Bottom,Red,MANGO,7156,Y2K
+142,Sweater,Dress,Gray,H&M,2772,"Preppy, Bohemian, Minimalist"
+143,Jacket,Accessory,Yellow,ONLY,3020,"Bohemian, Preppy, Streetwear"
+144,Top,Top,Black,MANGO,3400,"Y2K, Cottage Core, Dark Academia"
+145,Hoodie,Outerwear,Brown,ONLY,6196,Dark Academia
+146,T-Shirt,Outerwear,Blue,Levi's,5275,"Streetwear, Bohemian"
+147,Top,Top,Gray,Nike,4018,Bohemian
+148,Skirt,Bottom,Black,H&M,4786,"Cottage Core, Preppy, Dark Academia"
+149,Crop Top,Dress,Yellow,Jack & Jones,3029,"Dark Academia, Preppy, Streetwear"
+150,Sweater,Outerwear,Purple,ONLY,2488,"Minimalist, Streetwear"
+151,Dress,Outerwear,White,ONLY,6726,Dark Academia
+152,Skirt,Outerwear,Gray,Vero Moda,8896,"Preppy, Streetwear, Y2K"
+153,Boots,Bottom,Purple,Levi's,7998,"Minimalist, Y2K, Streetwear"
+154,Sneakers,Top,Yellow,ONLY,8027,Grunge Revival
+155,Boots,Dress,Yellow,Vero Moda,5158,Y2K
+156,T-Shirt,Footwear,Blue,Nike,8046,Minimalist
+157,Shorts,Accessory,Blue,Zara,8208,"Bohemian, Dark Academia, Streetwear"
+158,Jacket,Dress,Green,Levi's,9337,Grunge Revival
+159,Top,Top,Yellow,Jack & Jones,5269,"Grunge Revival, Streetwear, Minimalist"
+160,Jacket,Dress,Purple,Adidas,7394,Y2K
+161,Top,Bottom,Blue,Zara,6408,"Streetwear, Preppy, Grunge Revival"
+162,Blazer,Accessory,Black,Jack & Jones,6514,"Dark Academia, Streetwear, Grunge Revival"
+163,Crop Top,Outerwear,Brown,MANGO,5090,"Minimalist, Dark Academia"
+164,Sneakers,Outerwear,Brown,ONLY,4931,Grunge Revival
+165,T-Shirt,Bottom,Black,Adidas,1555,Grunge Revival
+166,Trousers,Top,Black,Zara,4213,"Minimalist, Cottage Core"
+167,Sandals,Top,Purple,Levi's,9782,"Bohemian, Preppy, Cottage Core"
+168,Skirt,Bottom,White,Levi's,8826,"Dark Academia, Preppy"
+169,T-Shirt,Bottom,Red,ONLY,622,"Grunge Revival, Y2K"
+170,Hoodie,Top,Pink,MANGO,8430,Y2K
+171,Skirt,Accessory,Red,Levi's,5803,Cottage Core
+172,Shorts,Outerwear,Gray,Jack & Jones,4882,"Minimalist, Streetwear, Preppy"
+173,Dress,Footwear,Purple,H&M,5483,"Streetwear, Cottage Core"
+174,Trousers,Top,Purple,Nike,3489,Preppy
+175,Skirt,Footwear,White,ONLY,7067,Grunge Revival
+176,Boots,Bottom,Black,Vero Moda,1543,Y2K
+177,Trousers,Top,Pink,Vero Moda,1277,"Preppy, Cottage Core, Streetwear"
+178,Sandals,Top,Red,Levi's,5343,Cottage Core
+179,Jacket,Outerwear,Green,Levi's,7545,"Streetwear, Grunge Revival, Cottage Core"
+180,Boots,Top,Pink,Adidas,6230,"Cottage Core, Dark Academia"
+181,Blazer,Footwear,Purple,ONLY,858,"Streetwear, Minimalist, Preppy"
+182,Top,Accessory,Red,Nike,2367,"Y2K, Grunge Revival, Minimalist"
+183,Hoodie,Accessory,Pink,MANGO,3088,"Dark Academia, Minimalist"
+184,T-Shirt,Footwear,Yellow,Jack & Jones,3168,Grunge Revival
+185,Shorts,Dress,Green,Adidas,649,"Streetwear, Y2K, Bohemian"
+186,Top,Bottom,Black,Vero Moda,5973,"Grunge Revival, Y2K, Streetwear"
+187,Jacket,Top,Yellow,Jack & Jones,8858,Cottage Core
+188,Crop Top,Outerwear,Blue,Vero Moda,7065,Cottage Core
+189,Boots,Dress,Black,Zara,2944,"Grunge Revival, Dark Academia"
+190,Boots,Bottom,Pink,H&M,5978,"Dark Academia, Y2K, Cottage Core"
+191,Jeans,Accessory,Green,Zara,811,"Cottage Core, Streetwear"
+192,Sneakers,Dress,Brown,Levi's,3579,"Cottage Core, Dark Academia"
+193,Shorts,Footwear,Green,MANGO,4298,"Preppy, Minimalist"
+194,Dress,Accessory,Pink,Nike,7776,"Minimalist, Bohemian"
+195,T-Shirt,Top,Pink,Zara,2354,Grunge Revival
+196,Dress,Footwear,Red,Nike,4854,Grunge Revival
+197,Boots,Accessory,White,H&M,5485,"Minimalist, Preppy"
+198,T-Shirt,Top,Black,Nike,2773,"Cottage Core, Minimalist"
+199,Boots,Footwear,Purple,ONLY,5622,"Bohemian, Cottage Core, Dark Academia"
+200,Jacket,Footwear,Yellow,MANGO,6839,Cottage Core

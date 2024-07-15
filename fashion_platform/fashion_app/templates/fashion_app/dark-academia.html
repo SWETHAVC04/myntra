@@ -1,0 +1,39 @@
+{% extends 'fashion_app/base.html' %}
+
+{% block content %}
+<h2 class="mb-4">Dark Academia</h2>
+<div id="wardrobe" class="row"></div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+$(document).ready(function() {
+    // This is a mock-up. In a real application, you'd fetch actual recommendations from your API.
+    var capsule = [
+        { name: "Turtlenecks", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvs-R7w8O_yRjNoJaRFb4BKCgZyYAbS_yf_A&s", link: "https://www.myntra.com/turtlenecks?rawQuery=turtlenecks%20dark"},
+        { name: "Blazer", image_url: "https://i.pinimg.com/736x/08/9c/17/089c1709da2b68646dfea744cbe5168f.jpg", link: "https://www.myntra.com/blazer?rawQuery=blazer%20dark"},
+        { name: "Skirt", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTuGCf7_FluiEvA50lX0QSeFe9sjfhR_U16Q&s", link: "https://www.myntra.com/skirt?rawQuery=skirt%20dark"},
+        { name: "Loafers", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SiIE_KkIQM1QA6oha5HEHryJ6FMXLoK3mA&s", link: "https://www.myntra.com/loafers?rawQuery=loafers%20dark"},
+        { name: "Sweater", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByIKdsPn3NmlpT5nY7n05SxkAVLlXof4IuA&s", link: "https://www.myntra.com/sweater?rawQuery=sweater%20dark"},
+        { name: "Glasses", image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPdIheSWT0I_imWncMnoR3oo8D8J4vG-Sfg&s", link: "https://www.myntra.com/glasses?rawQuery=glasses%20metal%20rim"},
+    ];
+    
+    var capsuleHtml = '';
+    capsule.forEach(function(item) {
+        capsuleHtml += `
+            <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="${item.image_url}" class="card-img-top" alt="${item.name}" height="400">
+                        <div class="card-body">
+                            <h5 class="card-title">${item.name}</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        `;
+    });
+    $('#capsule').html(capsuleHtml);
+});
+</script>
+{% endblock %}

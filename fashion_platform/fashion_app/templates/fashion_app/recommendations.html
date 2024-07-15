@@ -1,0 +1,36 @@
+{% extends 'fashion_app/base.html' %}
+
+{% block content %}
+<h2 class="mb-4">Your Personalized Recommendations</h2>
+<div id="recommendations" class="row"></div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+$(document).ready(function() {
+    var mockRecommendations = [
+        { name: "Vintage Style", image_url: "https://example.com/vintage.jpg", aesthetic: "Vintage" },
+        { name: "Punk Rock Look", image_url: "https://example.com/punk.jpg", aesthetic: "Punk" },
+        { name: "Boho Chic", image_url: "https://example.com/boho.jpg", aesthetic: "Bohemian" }
+    ];
+    
+    var recommendationsHtml = '';
+    mockRecommendations.forEach(function(item) {
+        recommendationsHtml += `
+            <div class="col-md-4 mb-4">
+                <a href="/apparel-set/${item.aesthetic}/" class="text-decoration-none">
+                    <div class="card">
+                        <img src="${item.image_url}" class="card-img-top" alt="${item.name}">
+                        <div class="card-body">
+                            <h5 class="card-title">${item.name}</h5>
+                            <p class="card-text">Aesthetic: ${item.aesthetic}</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        `;
+    });
+    $('#recommendations').html(recommendationsHtml);
+});
+</script>
+{% endblock %}
